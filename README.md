@@ -11,7 +11,7 @@
 </a> 
 </div> 
 
-<img src="https://komarev.com/ghpvc/?userename=thomaskyriakopoulos&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?userename=studentdatalabs&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
